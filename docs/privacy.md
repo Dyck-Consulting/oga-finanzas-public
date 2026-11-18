@@ -12,7 +12,7 @@ server, and no analytics. Everything you enter stays on your phone.
 
 ## 1. Who we are
 
-Oga is published by Dyck Consulting (Buenos Aires, Argentina). You can reach us
+Oga is published by Dyck Consulting (Asunción, Paraguay). You can reach us
 at the contact email listed on the app's Google Play page.
 
 ## 2. What we collect
